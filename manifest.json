@@ -1,0 +1,10 @@
+{
+  "Name": "FasterWalkHotkey",
+  "Author": "Maxfield",
+  "Version": "1.0.0",
+  "Description": "Press a hotkey to faster walk",
+  "UniqueID": "Maxfield.WalkingCane",
+  "EntryDll": "FasterWalkHotkey.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
