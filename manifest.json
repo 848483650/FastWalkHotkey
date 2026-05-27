@@ -5,5 +5,8 @@
   "Description": "Press a hotkey to faster walk",
   "UniqueID": "Maxfield.WalkingCane",
   "EntryDll": "FastWalkHotkey.dll",
-  "MinimumApiVersion": "4.0.0"
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:46808"
+  ]
 }
