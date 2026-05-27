@@ -1,4 +1,6 @@
 {
   "config.keybindFastSpeed.name": "快速移动按键",
-  "config.keybindFastSpeed.desc": "按下来快速移动"
+  "config.keybindFastSpeed.desc": "按下来快速移动",
+  "config.fastspeed.name": "速度",
+  "config.fastspeed.desc": "速度为乘法"
 }

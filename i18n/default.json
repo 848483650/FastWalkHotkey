@@ -1,4 +1,6 @@
 {
   "config.keybindFastSpeed.name": "FastMoveHotKey",
-  "config.keybindFastSpeed.desc": "Press to speedup."
+  "config.keybindFastSpeed.desc": "Press to speedup.",
+  "config.fastspeed.name": "Speed",
+  "config.fastspeed.desc": "How fast when u toggle the mod."
 }

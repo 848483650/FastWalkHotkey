@@ -11,6 +11,7 @@ namespace FastWalkHotkey
     public class ModConfig
     {
         //88为X键
-        public KeybindList SpeedHotKey { get; set; } = new KeybindList((SButton)88);
+        public KeybindList SpeedHotKey { get; set; } = new KeybindList((SButton)71);
+        public int FastSpeed { get; set; } = 3;
     }
 }
